@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanuelkeifala" alt="emmanuelkeifala" /></a> </p>
 
-- 🔭 I’m currently working on [meyoneducation](meyoneducation.vercel.app)
+- 🔭 I’m currently working on [meyoneducation](https://meyoneducation.vercel.app)
 
 - 🌱 I’m currently learning **React, Nextjs**
 
