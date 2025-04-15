@@ -7,15 +7,11 @@
 
 - 🔭 I’m currently working on [meyoneducation](https://meyoneducation.vercel.app)
 
-- 🌱 I’m currently learning **React, Nextjs**
+- 🌱 I’m currently working **React, Nextjs, Express**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EmmanuelKeifala/](https://github.com/EmmanuelKeifala/)
 
-- 💬 Ask me about **react and nextjs**
-
 - 📫 How to reach me **emmanuelkeifala@gmail.com**
-
-- ⚡ Fun fact **Mastering React, turning code into interactive, dynamic user experiences**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
