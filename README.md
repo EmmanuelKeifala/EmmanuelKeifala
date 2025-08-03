@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanuelkeifala" alt="emmanuelkeifala" /></a> </p>
 
-- 🔭 I’m currently working on [meyoneducation](https://meyoneducation.vercel.app)
-
-- 🌱 I’m currently working **React, Nextjs, Express**
-
 - 👨‍💻 All of my projects are available at [https://github.com/EmmanuelKeifala/](https://github.com/EmmanuelKeifala/)
 
 - 📫 How to reach me **emmanuelkeifala@gmail.com**
