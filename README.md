@@ -14,8 +14,8 @@
 <a href="https://twitter.com/emmanuel_kel__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emmanuel_kel__" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmanuelkeifala&show_icons=true&locale=en&layout=compact" alt="emmanuelkeifala" /></p>
+<p><img align="left" src="https://stats-eight-alpha.vercel.app/api/top-langs?username=emmanuelkeifala&show_icons=true&locale=en&layout=compact" alt="emmanuelkeifala" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmanuelkeifala&show_icons=true&locale=en" alt="emmanuelkeifala" /></p>
+<p>&nbsp;<img align="center" src="https://stats-eight-alpha.vercel.app/api?username=emmanuelkeifala&show_icons=true&locale=en" alt="emmanuelkeifala" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmanuelkeifala&" alt="emmanuelkeifala" /></p>
