@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Keifala</h1>
 <h3 align="center">Passionate developer with expertise in creating scalable web applications. Proficient in various languages and frameworks, including React. Enthusiastic about problem-solving and staying updated on the latest technologies.</h3>
-<img src="https://cdn.dribbble.com/user/1162077/screenshots/3848914/programmer.gif" width="400" alt="coding" align="right" />
+<img src="https://raw.githubusercontent.com/EmmanuelKeifala/EmmanuelKeifala/main/assets/programmer.gif" width="400" alt="coding" align="right" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelkeifala&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelkeifala" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmanuelkeifala" alt="emmanuelkeifala" /></a> </p>
