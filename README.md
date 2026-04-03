@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Keifala</h1>
-<h3 align="center">Passionate developer with expertise in creating scalable web applications. Proficient in various languages and frameworks, including React. Enthusiastic about problem-solving and staying updated on the latest technologies.</h3>
+<h1 align="center">I'm Emmanuel Keifala</h1>
+
 <img src="https://raw.githubusercontent.com/EmmanuelKeifala/EmmanuelKeifala/main/assets/programmer.gif" width="400" alt="coding" align="right" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmanuelkeifala&label=Profile%20views&color=0e75b6&style=flat" alt="emmanuelkeifala" /> </p>
 
